@@ -1,0 +1,35 @@
+body
+{
+    background-color: bisque;
+}
+
+#score
+{
+    font-size: x-large;
+    float: left;
+    font-weight: bolder;
+}
+
+#timer
+{
+    font-size: x-large;
+    float: right;
+    font-weight: bolder;
+}
+
+#sketch_drawn
+{
+    color: darkblue;
+    font-size: large;
+    font-weight: bolder;
+}
+
+#show_sketch
+{
+    float:right;
+}
+
+h1
+{
+    background-color: cornsilk;
+}
